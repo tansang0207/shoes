@@ -34,6 +34,7 @@
   transition-property: all;
   transition-duration: 0.1s;
   transition-timing-function: ease-out;
+  align-self: auto;
   -webkit-transition-property: all;
   -webkit-transition-timing-function: ease-out;
   -webkit-transition-duration: 0.1s;
