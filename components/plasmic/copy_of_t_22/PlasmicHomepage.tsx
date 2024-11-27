@@ -317,9 +317,9 @@ function PlasmicHomepage__RenderFunc(props: {
                   sty.productCard___5F42B
                 )}
                 img={{
-                  src: "/plasmic/copy_of_t_22/images/airforce107Png.webp",
-                  fullWidth: 936,
-                  fullHeight: 1170,
+                  src: "/plasmic/copy_of_t_22/images/nestjsLogoJpegjpg.jpg",
+                  fullWidth: 400,
+                  fullHeight: 400,
                   aspectRatio: undefined
                 }}
                 rating={
