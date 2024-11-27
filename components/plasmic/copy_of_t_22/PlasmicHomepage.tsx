@@ -361,9 +361,9 @@ function PlasmicHomepage__RenderFunc(props: {
                 className={classNames("__wab_instance", sty.productCard__vtw0H)}
                 dollars={"79"}
                 img={{
-                  src: "/plasmic/copy_of_t_22/images/imagespng.jpg",
-                  fullWidth: 201,
-                  fullHeight: 251,
+                  src: "/plasmic/copy_of_t_22/images/viteReactpng.png",
+                  fullWidth: 711,
+                  fullHeight: 380,
                   aspectRatio: undefined
                 }}
                 rating={
@@ -405,9 +405,9 @@ function PlasmicHomepage__RenderFunc(props: {
                 className={classNames("__wab_instance", sty.productCard__q0Ixr)}
                 dollars={"64"}
                 img={{
-                  src: "/plasmic/copy_of_t_22/images/airforce1071Png.webp",
-                  fullWidth: 936,
-                  fullHeight: 1170,
+                  src: "/plasmic/copy_of_t_22/images/plasmicPngpng.webp",
+                  fullWidth: 483,
+                  fullHeight: 476,
                   aspectRatio: undefined
                 }}
                 rating={
@@ -449,9 +449,9 @@ function PlasmicHomepage__RenderFunc(props: {
                 className={classNames("__wab_instance", sty.productCard__xx1W)}
                 dollars={"99"}
                 img={{
-                  src: "/plasmic/copy_of_t_22/images/imagespng.jpg",
-                  fullWidth: 201,
-                  fullHeight: 251,
+                  src: "/plasmic/copy_of_t_22/images/nestjsHero1Png.png",
+                  fullWidth: 1024,
+                  fullHeight: 576,
                   aspectRatio: undefined
                 }}
                 rating={
@@ -493,9 +493,9 @@ function PlasmicHomepage__RenderFunc(props: {
                 className={classNames("__wab_instance", sty.productCard__rp77B)}
                 dollars={"79"}
                 img={{
-                  src: "/plasmic/copy_of_t_22/images/airforce1071Png.webp",
-                  fullWidth: 936,
-                  fullHeight: 1170,
+                  src: "/plasmic/copy_of_t_22/images/rooftopperLookingDownjpg.jpg",
+                  fullWidth: 4460,
+                  fullHeight: 2973,
                   aspectRatio: undefined
                 }}
                 rating={
